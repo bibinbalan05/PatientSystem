@@ -1,0 +1,11 @@
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\bin\Debug\net8.0\Patient.Domain.deps.json
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\bin\Debug\net8.0\Patient.Domain.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\bin\Debug\net8.0\Patient.Domain.pdb
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.AssemblyInfoInputs.cache
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.AssemblyInfo.cs
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\refint\Patient.Domain.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\Patient.Domain.pdb
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Domain\obj\Debug\net8.0\ref\Patient.Domain.dll

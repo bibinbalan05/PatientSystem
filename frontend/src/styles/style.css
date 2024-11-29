@@ -1,0 +1,6 @@
+/* src/styles.css */
+button.btn {
+    width: 100%; /* Makes the button take the full width */
+    margin-top: 20px; /* Adds space between the button and the fields above */
+  }
+  

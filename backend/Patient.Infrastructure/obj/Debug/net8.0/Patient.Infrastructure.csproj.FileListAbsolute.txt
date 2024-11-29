@@ -1,0 +1,12 @@
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.deps.json
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.pdb
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.AssemblyInfo.cs
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\refint\Patient.Infrastructure.dll
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.pdb
+C:\Users\bibin\Desktop\Machine Test\Hospital management\Patient.Infrastructure\obj\Debug\net8.0\ref\Patient.Infrastructure.dll
